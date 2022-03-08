@@ -1,0 +1,45 @@
+.btn{
+    margin-right: 20px;
+    float: right;
+    color: white;
+    border-radius: 3px;
+   
+    background-color: red;
+    border: 2px solid red;
+}
+#btn1{
+    background-color: blue;
+    border: 2px solid blue;
+}
+
+.todobox{
+    margin-top: 10px;
+    width: 60%;
+    margin: auto;
+   padding: 10px;
+   background-color: grey;
+    /* border: 1px solid red; */
+}
+span{
+  margin-left: 60%;
+  color: blue;
+}
+.in{
+    margin-bottom: 50px;
+    text-align: center;
+    width: 40%;
+    margin: auto;
+    height: 75px;
+    /* border: 1px solid green; */
+
+}
+input{
+    width: 77%;
+    padding: 2%;
+}
+.sbtn{
+   padding: 2%;
+   color: white;
+   background-color: green;
+   border: 2px solid green;
+}
