@@ -7,7 +7,7 @@ export const GroceryInput=({handleClick})=>{
          let query=e.target.value;
          setText(query);
     }
-    //console.log(text)
+  
 
     return (
         <div>
